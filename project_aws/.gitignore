@@ -1,0 +1,4 @@
+.localstack
+logs
+*.log
+./Source/test.py
